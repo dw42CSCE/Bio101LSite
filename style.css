@@ -67,4 +67,11 @@
     font-size: 0.85rem;
     color: #6b7280;
   }
+  .images {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
   
